@@ -1,0 +1,6 @@
+[
+  { "name": "Europe Tour", "image": "/images/tours/europe.jpg" },
+  { "name": "Dubai Tour", "image": "/images/tours/dubai.jpg" },
+  { "name": "Bali Tour", "image": "/images/tours/bali.jpg" },
+  { "name": "Kashmir Tour", "image": "/images/tours/kashmir.jpg" }
+]

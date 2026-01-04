@@ -1,0 +1,7 @@
+[
+  { "title": "Flight Booking", "desc": "Best deals on domestic & international flights", "icon": "plane" },
+  { "title": "Tour Packages", "desc": "International, domestic, honeymoon, spiritual tours", "icon": "package" },
+  { "title": "Hotel Booking", "desc": "Affordable & luxury stays worldwide", "icon": "hotel" },
+  { "title": "Visa Services", "desc": "Fast and reliable visa processing", "icon": "file-text" },
+  { "title": "Passport Services", "desc": "New & renewal passport assistance", "icon": "id-card" }
+]
